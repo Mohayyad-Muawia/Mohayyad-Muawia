@@ -19,9 +19,9 @@ I'm a web developer with 2 years of experience in building websites and web appl
 
 ### 🛠️ Projects
 Here are some of the projects I'm proud of:
-- [Portfolio Website](https://weareallvalues.org): A multi-language landing page built for a charity organization.
-- Chatbot App: A chatbot application using the MERN stack and the Gemini API.
-- [Landing Page](#): A dynamic, scroll-animated landing page for a local charity.
+- [Portfolio Website](https://mohayyad-muawia.netlify.app): A multi-language landing page built for a charity organization.
+- [Chatbot App](https://wave-ai.onrender.com): A chatbot application using the MERN stack and the Gemini API.
+- [Charity Organisaion Website]((https://weareallvalues.org)): A dynamic, scroll-animated landing page for a local charity.
 
 ### 📫 How to Reach Me
 - Email: mohayyad.dev@gmail.com

@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<h1 style="text-align: center" >Mohayyad Muawia</h1>
-**Mohayyad-Muawia/Mohayyad-Muawia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Mohayyad Muawia</h1>
 
 Here are some ideas to get you started:
 

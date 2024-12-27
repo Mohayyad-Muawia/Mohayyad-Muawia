@@ -24,7 +24,7 @@ Here are some of the projects I'm proud of:
 - [Charity Organisaion Website](https://weareallvalues.org): A dynamic, scroll-animated landing page for *We're All Values* charity Organisaio .
 
 ### 📫 How to Reach Me
-- Email: mohayyad.dev@gmail.com
+- Email: mohayyad2.0@gmail.com
 - LinkedIn: [Mohayyad Muawia Elzubeir Abdoon](https://www.linkedin.com/in/your-link)
 - Twitter: [@Mohayyad](https://twitter.com/yourhandle)
 

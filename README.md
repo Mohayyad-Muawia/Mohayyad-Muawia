@@ -9,7 +9,7 @@ I'm a web developer with 2 years of experience in building websites and web appl
 - Version Control: Git & GitHub
 - Cloud Services: Firebase
 - Other Tools: Linux, Visual Studio Code, Postman
-- Languages: JavaScript, TypeScript
+- Languages: JavaScript, java
 
 ### 🌱 Currently Learning
 - Next.js for improving my server-side rendering and static site generation skills.

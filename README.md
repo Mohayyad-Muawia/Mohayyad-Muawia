@@ -1,7 +1,7 @@
 # Hi there, I'm Mohayyad! 👋
 
 ### 💻 About Me
-I'm a web developer with 2 years of experience in building websites and web applications. I specialize in frontend and full-stack development, particularly with React.js and the MERN stack. I am passionate about creating visually appealing, user-friendly, and responsive web applications. I'm also interested in Data Science and constantly expanding my skillset.
+I'm a web developer with 2 years of experience in building websites and web applications. I specialize in frontend and full-stack development, particularly with React.js and the MERN stack. I am passionate about creating visually appealing, user-friendly, and responsive web applications. I'm also interested in Mobile Apps Development and constantly expanding my skillset.
 
 ### 🚀 Technologies & Tools
 - Frontend: HTML, CSS, JavaScript, React, Bootstrap

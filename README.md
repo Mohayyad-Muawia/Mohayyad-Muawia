@@ -1,4 +1,4 @@
-# Mohayyad Muawia Elzubair
+# Mohayyad Muawia
 
 ### Full stack Developer (Frontend Focused)
 
